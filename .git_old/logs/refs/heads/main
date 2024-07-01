@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 f2d71cdc0457a96284962d9e52a320f3b6e33f86 Vakhid Dzhet <vakhid.dzhet@gmail.com> 1716859006 +0600	commit (initial): Add .venv to .gitignore and remove from tracking
+f2d71cdc0457a96284962d9e52a320f3b6e33f86 80b9347b21ec2222d467d1fdb66f4bc342018b56 Vakhid Dzhet <vakhid.dzhet@gmail.com> 1716859091 +0600	commit: Add project files
+80b9347b21ec2222d467d1fdb66f4bc342018b56 80b9347b21ec2222d467d1fdb66f4bc342018b56 Vakhid Dzhet <vakhid.dzhet@gmail.com> 1716859378 +0600	Branch: renamed refs/heads/master to refs/heads/main
+80b9347b21ec2222d467d1fdb66f4bc342018b56 ff10f31cb39828825c0436d8c5eedb9ea031727b Vakhid Dzhet <vakhid.dzhet@gmail.com> 1717552940 +0600	commit: Updated transformation matrix code
+ff10f31cb39828825c0436d8c5eedb9ea031727b ff10f31cb39828825c0436d8c5eedb9ea031727b Vakhid Dzhet <vakhid.dzhet@gmail.com> 1719796250 +0600	Branch: renamed refs/heads/main to refs/heads/main
